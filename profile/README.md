@@ -1,4 +1,4 @@
-![Bereft Souls Banner](docs/banner_1.png)
+![Bereft Souls Banner](../docs/banner_1.png)
 
 ---
 
